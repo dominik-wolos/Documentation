@@ -27,6 +27,7 @@ Aplikacja pozwala prowadzić prosty budżet domowy: dodawać przychody i wydatki
 - `docs/PROJECT_LEARNING_SUMMARY.md` - skrócona ścieżka nauki do prezentacji i pytań
 - `docs/AUDYT_LABORATORIA.md` - notatka o zakresie po redukcji konfiguracji Kubernetes
 - `docs/PODSUMOWANIE_PRAC.md` - historia wykonanych prac w projekcie
+- `docs/KUBERNETES_WYKLAD.md` - kompletny wykład akademicki o implementacji Kubernetes na podstawie tej aplikacji
 - `AI_CONTEXT.md` - opis użycia narzędzia LLM jako wsparcia przy pracy nad projektem
 
 ## API
